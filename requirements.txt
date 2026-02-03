@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+psycopg2-binary
+python-dotenv
+ultralytics
+opencv-python-headless
+pydantic-settings
+python-multipart
+aiosqlite
+fastapi-mail
